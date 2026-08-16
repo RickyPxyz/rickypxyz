@@ -1,0 +1,25 @@
+{
+  "name": "profile-readme-template",
+  "version": "1.0.0",
+  "description": "Profile README Template",
+  "homepage": "https://github.com/rickypxyz/profile-readme-template#readme",
+  "bugs": {
+    "url": "https://github.com/rickypxyz/profile-readme-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickypxyz/profile-readme-template.git"
+  },
+  "license": "MIT",
+  "author": "Richard Szilagyi",
+  "type": "module",
+  "scripts": {
+    "build": "tsx build.ts",
+    "test": "tsx build.ts --test"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2"
+  }
+}
