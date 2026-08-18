@@ -2,13 +2,13 @@
   "name": "profile-readme-template",
   "version": "1.0.0",
   "description": "Profile README Template",
-  "homepage": "https://github.com/rickypxyz/profile-readme-template#readme",
+  "homepage": "https://github.com/rickyp-xyz/profile-readme-template#readme",
   "bugs": {
-    "url": "https://github.com/rickypxyz/profile-readme-template/issues"
+    "url": "https://github.com/rickyp-xyz/profile-readme-template/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rickypxyz/profile-readme-template.git"
+    "url": "git+https://github.com/rickyp-xyz/profile-readme-template.git"
   },
   "license": "MIT",
   "author": "Richard Szilagyi",
